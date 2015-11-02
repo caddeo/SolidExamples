@@ -12,7 +12,6 @@ namespace solidopgaver
         {
             AnimalHospital hospital = new AnimalHospital();
             hospital.AddAnimal(new Dog("Grimme"));
-            
         }
     }
 }
